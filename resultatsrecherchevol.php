@@ -168,7 +168,7 @@ echo "}</script>";
 
 
 // Load Google Maps API and initialize the map
-echo "<script src='https://maps.googleapis.com/maps/api/js?key=AIzaSyDLci_HdegGFcMDEma0GHZvobV7byNJCvo&callback=initMap' async defer></script>";
+echo "<script src='https://maps.googleapis.com/maps/api/js?key=API_KEY&callback=initMap' async defer></script>";
 
 
 
