@@ -135,7 +135,7 @@ echo "<script>
         });
         var marker = new google.maps.Marker({
             position: location,
-            map: map
+            map: map,
         })
         var marker2 = new google.maps.Marker({
             position: arrivalofvol,
@@ -174,4 +174,3 @@ echo "<script src='https://maps.googleapis.com/maps/api/js?key=API_KEY&callback=
 
 
 ?>
-
